@@ -1,0 +1,11 @@
+﻿# Ignorar todo
+*
+
+# Pero incluir estas carpetas/archivos especificos
+!tidyfile_data/
+!tidyfile_data/version.txt
+!README.md
+
+# Ignorar archivos temporales
+*.tmp
+*.log
