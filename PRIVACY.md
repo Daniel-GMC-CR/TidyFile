@@ -19,7 +19,7 @@ La aplicación solo almacena:
 No se recopilan estadísticas de uso, no hay analytics, no hay tracking.
 
 ## Contacto
-Para preguntas: elydanconi@gmail.com
+Para preguntas: acrap.cr@gmail.com
 
 ## Código fuente
 Disponible en: https://github.com/Daniel-GMC-CR/TidyFile
