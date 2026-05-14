@@ -2,10 +2,17 @@
 *
 
 # Pero incluir estas carpetas/archivos especificos
+!.gitignore
+!README.md
+!PRIVACY.md
 !tidyfile_data/
 !tidyfile_data/version.txt
-!README.md
 
 # Ignorar archivos temporales
 *.tmp
 *.log
+*.pyc
+__pycache__/
+dist/
+build/
+*.spec
